@@ -8,7 +8,7 @@ source ./bin/activate
 Depois de ativar, entre na pasta src
 (cd nodejs-env/src)
 
-Ative o arquico com:
+Ative o arquivo com:
 (node index.js)
 
 No navegador, digite:
